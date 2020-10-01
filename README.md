@@ -1,4 +1,4 @@
-# Denavit-Hartenberg-Forward-Kinematics 3 DOF
+# Denavit-Hartenberg-Forward-Kinematics 3DOF
 DH-FK Qt5 Gui run main3d.py<br/>
 simple DH-FK without QT5 run main.py<br/>
 dh-matrix and drawing function in p_fkdh.py<br/>
